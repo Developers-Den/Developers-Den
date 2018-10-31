@@ -1,0 +1,24 @@
+{
+  "name": "developersden",
+  "version": "1.0.0",
+  "description": "Welcoming all developers who want to code and have fun :star2:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Developers-Den/Developers-Den.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Developers-Den/Developers-Den/issues"
+  },
+  "homepage": "https://github.com/Developers-Den/Developers-Den#readme",
+  "devDependencies": {
+    "all-contributors-cli": "^5.4.1"
+  }
+}
